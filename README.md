@@ -1,3 +1,2 @@
 # dio-java-basico
-Repositório para armazenar os arquivos do curso de java básico
-Teste de alteração local
+Repositório para armazenar os arquivos e exercícios do curso de java básico.
