@@ -1,3 +1,5 @@
+package edu.marcos.Variaveis_E_Constantes;
+
 public class Variaveis_E_Constantes {
     public static void main(String[] args) throws Exception {
 
