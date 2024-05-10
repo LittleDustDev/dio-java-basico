@@ -3,7 +3,6 @@ package edu.marcos.Variaveis_E_Constantes;
 public class Variaveis_E_Constantes {
     public static void main(String[] args) throws Exception {
 
-        int idade; //Tipo "int", nome "idade", com nenhum valor atribuído. 
         int anoFabricacao = 2021; //Tipo "int", nome "anoFabricacao", com valor 2021.
         double salarioMinimo = 2500.00; //Tipo "double", nome "salarioMinimo", valor 2.500,00.
 
@@ -25,5 +24,7 @@ public class Variaveis_E_Constantes {
 		 */
 		final double VALOR_DE_PI = 3.14;
         
+        System.out.println(anoFabricacao + ", " + salarioMinimo + ", " + idadeByte + ", " + ano + ", " + cep + ", " + cpf + ", " + pi + ", " + salario + 
+        ", " + numeroCurto + ", " + numeroNormal + ", " + numeroCurto2 + ", " + VALOR_DE_PI);
     }
 }
