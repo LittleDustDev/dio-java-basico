@@ -3,7 +3,7 @@ import java.util.Date;
 
 public class Operadores {
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
 
     //Operadores de atribuição
     String nome = "GLEYSON";
